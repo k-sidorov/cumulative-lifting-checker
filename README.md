@@ -1,6 +1,6 @@
 # Verification for implied lifted `cumulative`s
 
-This repository provides the data and verification scripts for the "search-less" lower bounds reported in Table 4 of the paper “On inferring cumulative constraints.”
+This repository provides the data and verification scripts for the "search-less" lower bounds reported in Table 4 of the paper “[On inferring cumulative constraints](https://arxiv.org/abs/2602.15635).”
 
 ## Verification logic
 
